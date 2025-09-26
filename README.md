@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TnJIQ-Y6)
+
 # Data Mining and Machine Learning Group Coursework
 
 
@@ -120,3 +120,4 @@ Implement neural network models, such as Multi-Layer Perceptrons (MLPs) and Conv
 ## Documentation
 
 Weekly updates are kept in the `documentation/` directory.
+
